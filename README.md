@@ -16,4 +16,4 @@ After creating informative visuals, I put them together onto a poster to present
 1. The majority of books that make the list stay only 1 or 2 weeks (Figure 1)
 2. The books spending the most weeks on the list in Fiction and Nonfiction both started at higher positions (1-15 for each category) in the begining of the year (Figure 3)
 
-![](Insights/Final_Data_Vis_Poster.pdf)
+[View PDF](Insights/Final%20Data%20Vis%20Poster.pdf)
