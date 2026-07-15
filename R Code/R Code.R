@@ -1,4 +1,5 @@
-# Final Project R Code by Sophia Pappalardo
+# The New York Times Adult Best Seller Book Data 2025 R Code 
+# by Sophia Pappalardo
 
 
 
